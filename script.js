@@ -1,1 +1,0 @@
-// Interações em JavaScript podem ser adicionadas aqui
